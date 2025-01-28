@@ -1,1 +1,1 @@
-#Klasifikasi Dataset Digits dengan Support Vector Machine (SVM)
+Klasifikasi Dataset Digits dengan Support Vector Machine (SVM)
