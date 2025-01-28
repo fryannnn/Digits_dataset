@@ -16,7 +16,7 @@ Dataset digits terdiri dari:
 - 64 fitur yang merupakan representasi numerik dari gambar angka 8x8 piksel.
 - 10 kelas target (angka 0-9).
 
-### Teknologi yang Digunakan
+### Tools 
 
 - Python
 - Scikit-learn untuk pengolahan data dan pembangunan model
